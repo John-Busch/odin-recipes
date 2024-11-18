@@ -8,13 +8,11 @@ h1 {
     text-align: center;
     background-color: rgb(181, 177, 147);
 }
-
 .recipe-name {
     background-color:wheat;
     font-family: fantasy;
     text-align:start;
 }
-
 img {
     margin: auto;
     display: block;
@@ -22,5 +20,17 @@ img {
 }
 
 .return {
-    text-align: center;
+    margin-left: 50%;
+    background-color: rgb(234, 192, 192);
+}
+
+.homepage-photo {
+    margin: auto;
+    display: block;
+    width: 800px;
+    height: auto;
+}
+
+.main-list {
+    font-size: 20px;
 }
