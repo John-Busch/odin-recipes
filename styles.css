@@ -1,0 +1,26 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(215, 216, 217);
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(181, 177, 147);
+}
+
+.recipe-name {
+    background-color:wheat;
+    font-family: fantasy;
+    text-align:start;
+}
+
+img {
+    margin: auto;
+    display: block;
+    background-color: rgb(207, 203, 191);
+}
+
+.return {
+    text-align: center;
+}
