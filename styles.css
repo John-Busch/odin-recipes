@@ -1,7 +1,6 @@
 * {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(215, 216, 217);
-
 }
 
 h1 {
@@ -17,7 +16,6 @@ h1 {
     font-family: fantasy;
     text-align:center;
     margin: 10px;
-    padding: 15px 0px 0px;
     height: min-content;
     width: 450px;
 }
@@ -25,6 +23,7 @@ h1 {
 img {
     margin: auto;
     display: block;
+
 }
 
 .return {
@@ -39,9 +38,7 @@ img {
 .homepage-photo {
     margin: auto;
     display: block;
-    width: 900px;
-
-    
+    width: 900px;  
 }
 
 .main-list {
@@ -54,5 +51,13 @@ img {
     font-size: 30px;
     display: block ruby;
     text-indent: 10px;
+}
 
+.recipe-header {
+    font-family: cursive;
+    width: min-content;
+    height: min-content;
+}
+
+.discription-text {
 }
